@@ -1,0 +1,29 @@
+/* cелектор{
+    свойство:значение;
+    свойство_2:значение_2;
+    свойство_3:значение_3;
+} */
+
+h2 {
+    color:red;
+    text-align: center;
+    font-style: italic;
+    /* text-decoration:underline; */
+    text-decoration: line-through;
+    font-size: 30px;
+    
+}
+
+.text{
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.charpter {
+    color: blue;
+}
+
+#begin {
+    color: orange;
+    font-weight: bold;
+}

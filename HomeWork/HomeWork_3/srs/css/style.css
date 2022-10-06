@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+.red_center {
+    color: red;
+    text-align: center;
+}
+
+.italic{
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(255, 255, 227);
+}
+
