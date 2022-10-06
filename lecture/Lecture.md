@@ -240,3 +240,13 @@
  border-style: dashed; - выделение границы пунктирной линией
 - border-color: color; - цвет границы
 - border: 3px solid color; - комбинация последний 3 операций сверху в 1 строку
+
+### Helpful info links
+
+- [wireframe](https://wireframe.cc/)- создание макета
+- [ninjamock](https://ninjamock.com/ru) - создание макета
+- [avocode](https://avocode.com/convert-psd-to-sketch) - конвертер PSD to Sketch
+- [marsy](https://www.markupeasy.ru/) - редактор макета
+- [vectorizer](https://www.vectorizer.io/) - конвертер в векторную графику
+- [конвертер](https://www.online-convert.com/) - конвертер файлов
+- [webref](https://webref.ru/) - справочник по HTML и CSS
