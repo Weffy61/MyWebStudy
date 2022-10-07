@@ -4,6 +4,11 @@
     свойство_3:значение_3;
 } */
 
+* {
+    box-sizing: border-box;
+}
+
+
 h1, h2, h3 {
     text-align: center;
 }
@@ -31,6 +36,8 @@ h2 {
 }
 
 .box {
+    display: inline-block;
+    vertical-align: middle;
     width: 300px;
     height: 300px;
     background-color: green;
@@ -40,8 +47,41 @@ h2 {
     border-style: solid;
     border-color: black; */
     margin: 20px;
+    z-index: 3;
 }
 
 .pink {
     color: pink;
+}
+
+a {
+    padding: 20px;
+    margin: 20px;
+    width: 500px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+
+}
+
+nav {
+    /* position: static, relative, absolute, fixed */
+    position: inherit;
+    left: 0px;
+    bottom: 50px;
+    /* right: 130px;
+    bottom: 150px */
+}
+
+.red {
+    background-color: red;
+    width: 50vw;
+    height: 25vh;
+}
+
+.example {
+    position: relative;
 }
