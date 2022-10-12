@@ -333,7 +333,8 @@ footer .footer_wraper {
 }
 
 .footer_wraper .footer_item,
-footer .footer_wraper span {
+footer .footer_wraper span , 
+footer .footer_wraper span a{
     color: #888888;
     font-size: 15px;
     font-weight: 300;
